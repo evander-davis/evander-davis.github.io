@@ -1,0 +1,6 @@
+{
+  "name": "Kepler-x187 Exoplanet Explorer",
+  "description": "An interactive web application for students to explore the Kepler-x187 system, analyze exoplanets using simulated spectroscopic data, and determine their habitability with guidance from an AI Mission Command.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
